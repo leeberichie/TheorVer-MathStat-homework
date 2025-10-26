@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/HW1_T1.dir/main.cpp.o -o HW1_T1  /usr/local/lib/libmatplot.a /usr/local/lib/Matplot++/libnodesoup.a 

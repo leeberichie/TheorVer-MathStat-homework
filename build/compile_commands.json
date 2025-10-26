@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/kevian/Code/TheorVer_HW1/build",
+  "command": "/usr/bin/g++ -DMATPLOT_BUILD_HIGH_RESOLUTION_WORLD_MAP -DNOMINMAX  -g -o CMakeFiles/HW1_T1.dir/main.cpp.o -c /home/kevian/Code/TheorVer_HW1/main.cpp",
+  "file": "/home/kevian/Code/TheorVer_HW1/main.cpp"
+}
+]

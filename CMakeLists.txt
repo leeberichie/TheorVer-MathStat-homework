@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(HW1_T1)
+find_package(Matplot++ REQUIRED)
+add_executable(HW1_T1 main.cpp)
+target_link_libraries(HW1_T1 PUBLIC Matplot++::matplot)

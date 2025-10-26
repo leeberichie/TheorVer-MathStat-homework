@@ -1,0 +1,3 @@
+/home/kevian/Code/TheorVer_HW1/build/CMakeFiles/HW1_T1.dir
+/home/kevian/Code/TheorVer_HW1/build/CMakeFiles/edit_cache.dir
+/home/kevian/Code/TheorVer_HW1/build/CMakeFiles/rebuild_cache.dir
