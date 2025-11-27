@@ -107,15 +107,15 @@ int main(){
     }
 
     cout << "RESULTS (n=5 from EACH basket)\n\n";
-    cout << "9) P(R = 4):\n";
+    cout << "P(R = 4):\n";
     cout << "  with replacement   : " << prob9_wr << "\n";
     cout << "  without replacement: " << prob9_nwr << "\n\n";
 
-    cout << "10) P(G <= 4):\n";
+    cout << "P(G <= 4):\n";
     cout << "  with replacement   : " << prob10_wr << "\n";
     cout << "  without replacement: " << prob10_nwr << "\n\n";
 
-    cout << "11) P(B > 1):\n";
+    cout << "P(B > 1):\n";
     cout << "  11.1 with replacement   : " << prob11_wr << "\n";
     cout << "  11.2 without replacement: " << prob11_nwr << "\n\n";
 
